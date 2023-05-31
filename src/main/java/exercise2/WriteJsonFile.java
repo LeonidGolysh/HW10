@@ -7,7 +7,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class writeJsonFile {
+public class WriteJsonFile {
     public static void main(String[] args) {
         String inputFile = "C:\\Users\\Leonid\\OneDrive\\Рабочий стол\\New folder (2)\\GoIt\\HW\\HW10\\src\\main\\java\\exercise2\\file.txt";
         String outputFile = "C:\\Users\\Leonid\\OneDrive\\Рабочий стол\\New folder (2)\\GoIt\\HW\\HW10\\src\\main\\java\\exercise2\\user.json";

@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
 
-public class wordFrequencySearch {
+public class WordFrequencySearch {
     public static void main(String[] args) {
         String fileName = "C:\\Users\\Leonid\\OneDrive\\Рабочий стол\\New folder (2)\\GoIt\\HW\\HW10\\src\\main\\java\\exercise3\\words.txt";
         Map<String, Integer> wordFrequency = calculateWordFrequency(fileName);
